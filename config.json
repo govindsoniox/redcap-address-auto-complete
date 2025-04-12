@@ -43,8 +43,8 @@
                     "value": "getaddress.io"
                 },                
                 {
-                    "name": "your.api.here",
-                    "value": "your.api.here"
+                    "name": "postcodes.io",
+                    "value": "postcodes.io"
                 }
             ],
             "required": true

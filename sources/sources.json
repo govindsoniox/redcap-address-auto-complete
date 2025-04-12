@@ -23,8 +23,15 @@
             "token": "api-key"
         },        
         {
-            "identifier": "your.api.here",
-            "description": "If you would like to add your own API please make a Pull Request via Github. More information can be found in the docs."
-        }
+            "identifier": "postcodes.io",
+            "description": "<i>postcodes.io</i> is a free, open-source UK postcode lookup and geolocation API. No authentication required.",
+            "documentation": "https://postcodes.io/docs",
+            "url": "api.postcodes.io",
+            "endpoint": "/postcodes/:postcode/autocomplete",
+            "limit": "top",
+            "term": "",
+            "token": ""
+          }
+          
     ]
 }
